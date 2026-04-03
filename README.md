@@ -2,7 +2,7 @@ NFSHPR Decal Tool
 
 GitHub release
 
-GitHub download Texturepack download
+https://github.com/AkaSokuro/NFSHPR-Decal-Tool/releases/download/v5.0/nfshpr-decal-textures.zip
 
 This script is for easing the process of modifying Need For Speed: Hot Pursuit Remastered's decals so custom wraps can be made faster.
 Disclaimer
